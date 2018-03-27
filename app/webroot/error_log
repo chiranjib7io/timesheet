@@ -1,0 +1,47 @@
+[07-Aug-2013 23:15:18] PHP Parse error:  syntax error, unexpected T_FUNCTION in /home4/naturfg4/public_html/tmp/ddd_master/app/Plugin/DebugKit/Controller/Component/ToolbarComponent.php on line 182
+[07-Aug-2013 23:15:41] PHP Parse error:  syntax error, unexpected T_FUNCTION in /home4/naturfg4/public_html/tmp/ddd_master/app/Plugin/DebugKit/Controller/Component/ToolbarComponent.php on line 182
+[08-Aug-2013 11:54:04] PHP Parse error:  syntax error, unexpected T_FUNCTION in /home4/naturfg4/public_html/tmp/ddd_master/app/Plugin/DebugKit/Controller/Component/ToolbarComponent.php on line 182
+[07-Nov-2016 08:53:28 UTC] PHP Parse error:  syntax error, unexpected '.' in /home/microfinanceapp/public_html/samhita_maven/app/Controller/AppController.php on line 1009
+[07-Nov-2016 10:36:23 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/microfinanceapp/public_html/samhita_maven/app/Controller/LoansController.php on line 336
+[08-Nov-2016 05:30:28 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/microfinanceapp/public_html/samhita_maven/app/View/Reports/receipt_payment_report.ctp on line 290
+[10-Nov-2016 09:29:21 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting ']' in /home/microfinanceapp/public_html/samhita_maven/app/Controller/AppController.php on line 2845
+[10-Nov-2016 10:11:04 UTC] PHP Parse error:  syntax error, unexpected ''C' (T_ENCAPSED_AND_WHITESPACE), expecting ']' in /home/microfinanceapp/public_html/samhita_maven/app/Controller/LoansController.php on line 2128
+[10-Nov-2016 10:11:05 UTC] PHP Parse error:  syntax error, unexpected ''C' (T_ENCAPSED_AND_WHITESPACE), expecting ']' in /home/microfinanceapp/public_html/samhita_maven/app/Controller/LoansController.php on line 2128
+[10-Nov-2016 10:11:09 UTC] PHP Parse error:  syntax error, unexpected ''C' (T_ENCAPSED_AND_WHITESPACE), expecting ']' in /home/microfinanceapp/public_html/samhita_maven/app/Controller/LoansController.php on line 2128
+[10-Nov-2016 10:57:53 UTC] PHP Parse error:  syntax error, unexpected 'foreach' (T_FOREACH) in /home/microfinanceapp/public_html/samhita_maven/app/View/Savings/kendra_saving_collections.ctp on line 109
+[10-Nov-2016 10:58:04 UTC] PHP Parse error:  syntax error, unexpected 'foreach' (T_FOREACH) in /home/microfinanceapp/public_html/samhita_maven/app/View/Savings/kendra_saving_collections.ctp on line 109
+[10-Nov-2016 10:58:13 UTC] PHP Parse error:  syntax error, unexpected 'foreach' (T_FOREACH) in /home/microfinanceapp/public_html/samhita_maven/app/View/Savings/kendra_saving_collections.ctp on line 109
+[10-Nov-2016 10:58:18 UTC] PHP Parse error:  syntax error, unexpected 'foreach' (T_FOREACH) in /home/microfinanceapp/public_html/samhita_maven/app/View/Savings/kendra_saving_collections.ctp on line 109
+[10-Nov-2016 10:58:27 UTC] PHP Parse error:  syntax error, unexpected 'foreach' (T_FOREACH) in /home/microfinanceapp/public_html/samhita_maven/app/View/Savings/kendra_saving_collections.ctp on line 109
+[10-Nov-2016 10:59:38 UTC] PHP Parse error:  syntax error, unexpected 'foreach' (T_FOREACH) in /home/microfinanceapp/public_html/samhita_maven/app/View/Savings/kendra_saving_collections.ctp on line 109
+[10-Nov-2016 12:30:10 UTC] PHP Parse error:  syntax error, unexpected 'var' (T_VAR), expecting '{' in /home/microfinanceapp/public_html/samhita_maven/app/Controller/AppController.php on line 42
+[18-Apr-2017 05:07:37 UTC] PHP Fatal error:  Out of memory (allocated 6815744) (tried to allocate 1920 bytes) in /home/microfinanceapp/public_html/samhita_maven/lib/Cake/Model/Datasource/DboSource.php on line 684
+[12-Jul-2017 06:50:04 UTC] PHP Fatal error:  Allowed memory size of 1073741824 bytes exhausted (tried to allocate 480212140 bytes) in /home/microfinanceapp/public_html/samhita_maven/lib/Cake/View/View.php on line 945
+[12-Jul-2017 06:53:25 UTC] PHP Fatal error:  Allowed memory size of 1073741824 bytes exhausted (tried to allocate 480212140 bytes) in /home/microfinanceapp/public_html/samhita_maven/lib/Cake/View/View.php on line 945
+[12-Jul-2017 06:56:46 UTC] PHP Fatal error:  Allowed memory size of 1073741824 bytes exhausted (tried to allocate 480212140 bytes) in /home/microfinanceapp/public_html/samhita_maven/lib/Cake/View/View.php on line 945
+[12-Jul-2017 09:48:49 UTC] PHP Fatal error:  Allowed memory size of 1073741824 bytes exhausted (tried to allocate 480212140 bytes) in /home/microfinanceapp/public_html/samhita_maven/lib/Cake/View/View.php on line 945
+[12-Jul-2017 09:52:11 UTC] PHP Fatal error:  Allowed memory size of 1073741824 bytes exhausted (tried to allocate 480212140 bytes) in /home/microfinanceapp/public_html/samhita_maven/lib/Cake/View/View.php on line 945
+[12-Jul-2017 09:55:34 UTC] PHP Fatal error:  Allowed memory size of 1073741824 bytes exhausted (tried to allocate 480212140 bytes) in /home/microfinanceapp/public_html/samhita_maven/lib/Cake/View/View.php on line 945
+[03-Oct-2017 13:19:30 UTC] PHP Fatal error:  Call to a member function find() on null in /home/microfinanceapp/public_html/sws/app/Controller/ReportsController.php on line 262
+[03-Oct-2017 13:45:55 UTC] PHP Fatal error:  Call to a member function find() on null in /home/microfinanceapp/public_html/sws/app/Controller/ReportsController.php on line 297
+[12-Oct-2017 13:34:03 Asia/Kolkata] PHP Fatal error:  Cannot break/continue 1 level in /home/microfinanceapp/public_html/sws/app/Controller/ReportsController.php on line 507
+[17-Oct-2017 15:15:30 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'var' (T_VAR), expecting ';' in /home/microfinanceapp/public_html/sws/app/View/Layouts/dashboard.ctp on line 504
+[18-Oct-2017 12:18:16 Asia/Kolkata] PHP Fatal error:  Call to a member function format() on boolean in /home/microfinanceapp/public_html/sws/app/Controller/DashboardsController.php on line 60
+[18-Oct-2017 13:51:51 Asia/Kolkata] PHP Fatal error:  Call to undefined function strotitme() in /home/microfinanceapp/public_html/sws/app/Controller/DashboardsController.php on line 123
+[01-Nov-2017 15:58:37 Asia/Kolkata] PHP Parse error:  syntax error, unexpected end of file in /home/microfinanceapp/public_html/sws/app/View/Reports/ajax_all_kendra_report.ctp on line 102
+[01-Nov-2017 15:58:56 Asia/Kolkata] PHP Parse error:  syntax error, unexpected end of file in /home/microfinanceapp/public_html/sws/app/View/Reports/ajax_all_kendra_report.ctp on line 102
+[14-Nov-2017 11:11:18 Asia/Kolkata] PHP Fatal error:  Class 'Health' not found in /home/microfinanceapp/public_html/sws/app/View/Helper/SltHelper.php on line 1188
+[14-Nov-2017 11:11:46 Asia/Kolkata] PHP Fatal error:  Class 'Health' not found in /home/microfinanceapp/public_html/sws/app/View/Helper/SltHelper.php on line 1188
+[23-Jan-2018 16:50:16 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ''gap'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/microfinanceapp/public_html/pm/app/View/Users/user_list.ctp on line 44
+[26-Jan-2018 13:04:57 Asia/Kolkata] PHP Fatal error:  Call to a member function find() on null in /home/microfinanceapp/public_html/pm/app/View/Helper/SltHelper.php on line 174
+[27-Jan-2018 15:03:15 Asia/Kolkata] PHP Fatal error:  Call to undefined method DashboardsController::getWorkdays() in /home/microfinanceapp/public_html/pm/app/Controller/DashboardsController.php on line 123
+[27-Jan-2018 15:09:52 Asia/Kolkata] PHP Fatal error:  Call to a member function find() on null in /home/microfinanceapp/public_html/pm/app/Controller/DashboardsController.php on line 184
+[27-Jan-2018 16:05:20 Asia/Kolkata] PHP Fatal error:  Call to undefined function strotime() in /home/microfinanceapp/public_html/pm/app/Controller/DashboardsController.php on line 318
+[29-Jan-2018 15:25:51 Asia/Kolkata] PHP Fatal error:  Call to a member function find() on null in /home/microfinanceapp/public_html/pm/app/Controller/ProjectsController.php on line 142
+[29-Jan-2018 17:44:25 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ';' in /home/microfinanceapp/public_html/pm/app/Controller/ProjectsController.php on line 132
+[29-Jan-2018 19:47:02 Asia/Kolkata] PHP Fatal error:  Call to a member function commit() on null in /home/microfinanceapp/public_html/pm/app/Controller/ProjectsController.php on line 169
+[29-Jan-2018 20:07:29 Asia/Kolkata] PHP Fatal error:  Call to undefined function get_all_rate() in /home/microfinanceapp/public_html/pm/app/Controller/ProjectsController.php on line 135
+[29-Jan-2018 20:17:27 Asia/Kolkata] PHP Fatal error:  Call to a member function get_all_rate() on null in /home/microfinanceapp/public_html/pm/app/Controller/ProjectsController.php on line 135
+[29-Jan-2018 21:34:25 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ';' in /home/microfinanceapp/public_html/pm/app/Controller/UsersController.php on line 458
+[30-Jan-2018 03:13:01 America/Los_Angeles] PHP Parse error:  syntax error, unexpected ')' in /home/microfinanceapp/public_html/pm/app/Controller/UsersController.php on line 464
+[16-Feb-2018 02:33:14 America/Los_Angeles] PHP Parse error:  syntax error, unexpected end of file in /home/microfinanceapp/public_html/pm/app/View/Projects/verify_entry.ctp on line 120
